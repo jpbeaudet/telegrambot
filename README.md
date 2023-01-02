@@ -4,6 +4,7 @@ sample telegram bot to subscribe to emiited event from provided smart contract a
 ## Chatbot
 To use the chatbot module, you'll need to install the node-telegram-bot-api library:
 
-'''
-test
-'''
+```
+npm install node-telegram-bot-api
+
+```
